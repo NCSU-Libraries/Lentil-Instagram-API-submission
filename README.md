@@ -1,13 +1,17 @@
 # Lentil Instagram API Submission Process
+## General Information
 Recent changes to the Instagram API have caused every new client that is created to be placed in a sandbox mode, that can only access a small number of accounts. In order for your app to have full access to the Instagram API you will need to submit the application for review. These are the steps that I took to submit a new Instagram API client for approval to be removed from the sandbox.
 
 This repository contains three example files:
-1)example-privacy-policy.md
-2)application-description.md
-3)Lentil-API-Use-Case.md
 
-You can modify those files to meet your needs prior to submitting your application for approval. 
+- [Lentil-API-Use-Case.md](https://github.com/NCSU-Libraries/Lentil-Instagram-API-submission/blob/master/Lentil-API-Use-Case.md)
+- [example-privacy-policy.md](https://github.com/NCSU-Libraries/Lentil-Instagram-API-submission/blob/master/example-privacy-policy.md)
+- [application-description.md](https://github.com/NCSU-Libraries/Lentil-Instagram-API-submission/blob/master/application-description.md)
 
+
+You can modify those files to meet your needs prior to submitting your application for approval. The most important of the three files is the API Use Case file, as it outlines how the Lentil app meets the 'Valid Use Cases' as outlined by Instagram, and also addresses which API endpoints Lentil requires permissions for from Instagram. 
+
+# Submission Process 
 ## 1) Create New Lentil App (optional)
 *This step is necessary if you are creating a brand new app, that you have not yet registered an Instagram API client for. All new clients that are being registered are limited to 'sandbox' mode until they are approved by Instagram through the submission process. If you have a pre-existing app with an associated Instagram API client you can skip to step 2.*
 
