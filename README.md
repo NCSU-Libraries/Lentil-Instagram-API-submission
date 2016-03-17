@@ -20,7 +20,7 @@ You can modify those files to meet your needs prior to submitting your applicati
   **B)** By default your new Instagram client has one sandbox user, and that is you. If you are using a development account that has not posted any images to Instagram, Lentil will not be able to harvest. If you need to you can invite another account (e.g. your personal account) to the sandbox for testing. When selecting a tag to harvest make sure that one or more photos have been recently posted by one or more of the accounts in the sandbox using the tag you are using for testing.
 
 ## 2) Prepare API Submission
-Once you have tested your new app, or are ready to submit a pre-existing application for review, you will need to create a few things for the submission. The actual submission process is rather short, only one quick form, but requires the following items to be present before you are able to submit:
+Once you have tested your new app, or are ready to submit a pre-existing application for review, you will need to create a few things for the submission. The actual submission process is rather short, only one quick form that is accessed from the permissions tab of the client you are requesting permissions for. You reach the permissions tab by clicking on 'edit' and then 'permissions'on the client you are wishing to submit an approval request for. However, an permissions approval request requires the following items to be present before you are able to submit:
 
   1) **Client Description** - a short description of your application that is found on the 'Details' tab of the edit client page.
 
