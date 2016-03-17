@@ -2,9 +2,9 @@
 Recent changes to the Instagram API have caused every new client that is created to be placed in a sandbox mode, that can only access a small number of accounts. In order for your app to have full access to the Instagram API you will need to submit the application for review. These are the steps that I took to submit a new Instagram API client for approval to be removed from the sandbox.
 
 This repository contains three example files:
- 1)example-privacy-policy.md
- 2)application-description.md
- 3)Lentil-API-Use-Case.md
+1)example-privacy-policy.md
+2)application-description.md
+3)Lentil-API-Use-Case.md
 
 You can modify those files to meet your needs prior to submitting your application for approval. 
 
