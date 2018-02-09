@@ -1,4 +1,11 @@
 # Lentil Instagram API Submission Process
+
+## Update
+On January 30th, 2018, Instagram [announced the release](https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/) of a new Instagram Graph API in order to focus on supporting business and advertising use of Instgram content. The Instagram Graph API does not support the use cases required by Lentil. Instagram immediately removed their mechanism for requesting developer credentials for the older Instagram API and **it is no longer possible to create new instances of Lentil**. The older Instagram API will be deprecated over the next two years. Lentil will continue to work **with pre-existing developer credentials until December 11, 2018**.
+
+
+
+
 ## General Information
 Recent changes to the Instagram API have caused every new client that is created to be placed in a sandbox mode, that can only access a small number of accounts. In order for your app to have full access to the Instagram API you will need to submit the application for review. These are the steps that I took to submit a new Instagram API client for approval to be removed from the sandbox.
 
